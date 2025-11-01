@@ -1,0 +1,41 @@
+# ====== Build outputs ======
+/bin/
+/build/
+/out/
+/Debug/
+/Release/
+
+# ====== Compiler intermediates ======
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+
+# ====== Logs and temporary files ======
+*.log
+*.tmp
+*.bak
+
+# ====== VS Code workspace files ======
+.vscode/
+*.code-workspace
+
+# ====== System files ======
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====== Other development artifacts ======
+*.suo
+*.user
+*.aps
+*.pch
+
+# ====== CMake or make build dirs (if added later) ======
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
